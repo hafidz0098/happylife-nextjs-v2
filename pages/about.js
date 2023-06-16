@@ -42,9 +42,9 @@ function About(){
                   <h4>Septian Aji Saputra</h4>
                   <span>Frontend Developer</span>
                   <div className="social">
-                    <a href=""><i className="ri-github-fill"></i></a>
-                    <a href=""><i className="ri-instagram-fill"></i></a>
-                    <a href=""> <i className="ri-linkedin-box-fill"></i> </a>
+                    <a href="https://github.com/septiannaji"><i className="ri-github-fill"></i></a>
+                    <a href="https://www.instagram.com/septiannaji/"><i className="ri-instagram-fill"></i></a>
+                    <a href="https://www.linkedin.com/in/septian-aji-saputra-aa0097276/"> <i className="ri-linkedin-box-fill"></i> </a>
                   </div>
                 </div>
               </div>

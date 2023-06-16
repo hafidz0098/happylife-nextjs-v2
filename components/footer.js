@@ -9,18 +9,29 @@ function Footer() {
         <div className="container">
           <div className="row gy-4 justify-content-center">
             <div className="col-lg-5 col-md-12 footer-info">
-              <a href="index.html" className="logo d-flex align-items-center">
+              <Link  href="/" legacyBehavior><a className="logo d-flex align-items-center">
                 <span>HappyLife</span>
-              </a>
+              </a></Link>
               <p>Terima kasih telah mengunjungi website kami. Mari bersama-sama kita tingkatkan kesadaran dan perhatian terhadap kesehatan mental yang penting dan sering terlupakan ini.</p>
             </div>
     
             <div className="col-lg-3 col-6 footer-links">
               <h4>Useful Links</h4>
               <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Artikel</a></li>
-                <li><a href="#">Tentang Kami</a></li>
+                <li>
+                  <Link href="/" legacyBehavior>
+                    <a>Home</a>
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/artikel" legacyBehavior>
+                    <a>Artikel</a>
+                  </Link></li>
+                <li>
+                  <Link href="/about" legacyBehavior>
+                    <a>Tentang Kami</a>
+                  </Link>
+                </li>
               </ul>
             </div>
     

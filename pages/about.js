@@ -72,9 +72,9 @@ function About(){
                   <h4>Indy Istiqamah</h4>
                   <span>Frontend Developer</span>
                   <div className="social">
-                    <a href=""><i className="ri-github-fill"></i></a>
-                    <a href=""><i className="ri-instagram-fill"></i></a>
-                    <a href=""> <i className="ri-linkedin-box-fill"></i> </a>
+                    <a href="https://github.com/inndyis"><i className="ri-github-fill"></i></a>
+                    <a href="https://www.instagram.com/inndyis/"><i className="ri-instagram-fill"></i></a>
+                    <a href="https://www.linkedin.com/in/indy-istiqamah/"> <i className="ri-linkedin-box-fill"></i> </a>
                   </div>
                 </div>
               </div>

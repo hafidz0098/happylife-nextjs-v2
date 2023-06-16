@@ -39,7 +39,9 @@ export async function getServerSideProps() {
                         <div className="col-text col-lg-6 col-sm-12">
                         <h1 className={Styles.title}>Get your mental health wellbeing information</h1>
                         <p className={Styles.desc}>Seseorang dengan mental yang sehat akan memiliki pikiran yang lebih terfokus dan terarah sehingga memudahkan untuk mengumpulkan konsentrasi sehingga dapat melakukan aktivitas dengan maksimal</p>
-                        <button type="button" className={`btn btn-custom ${Styles.heroBtn}`}>Selengkapnya</button>
+                        <Link href="/artikel" legacyBehavior>
+                            <a type="button" className={`btn btn-custom ${Styles.heroBtn}`}>Selengkapnya</a>
+                        </Link>
                         </div>
                         <div className="col-img col-lg-6 col-sm-12">
                         <img src="hero-image.png" alt=""/>

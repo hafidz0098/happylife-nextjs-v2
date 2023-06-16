@@ -1,5 +1,6 @@
 import Layout from "../layouts/default";
 import Head from 'next/head';
+import Link from "next/link";
  
 function About(){
     return(
@@ -20,9 +21,15 @@ function About(){
                   <h4>Hafidz</h4>
                   <span>Fullstack Developer</span>
                   <div className="social">
-                    <a href=""><i className="ri-github-fill"></i></a>
-                    <a href=""><i className="ri-instagram-fill"></i></a>
-                    <a href=""> <i className="ri-linkedin-box-fill"></i> </a>
+                    <Link href="https://github.com/hafidz0098" target="_blank">
+                      <i className="ri-github-fill"></i>
+                    </Link>
+                    <Link href="https://www.instagram.com/hafidz_hafidz" target="_blank">
+                      <i className="ri-instagram-fill"></i>
+                    </Link>
+                    <Link href="https://www.linkedin.com/in/hafidz-%E2%80%8E-855b211a9/" target="_blank">
+                      <i className="ri-linkedin-box-fill"></i>
+                    </Link>
                   </div>
                 </div>
               </div>

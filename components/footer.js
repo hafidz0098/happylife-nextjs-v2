@@ -12,7 +12,7 @@ function Footer() {
               <a href="index.html" className="logo d-flex align-items-center">
                 <span>HappyLife</span>
               </a>
-              <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+              <p>Terima kasih telah mengunjungi website kami. Mari bersama-sama kita tingkatkan kesadaran dan perhatian terhadap kesehatan mental yang penting dan sering terlupakan ini.</p>
             </div>
     
             <div className="col-lg-3 col-6 footer-links">
@@ -27,7 +27,7 @@ function Footer() {
             <div className="col-lg-3 col-6 footer-links">
               <h4>Our Services</h4>
               <ul>
-                <li><a href="#">Jenis kesehatan mental</a></li>
+                <li><a href="#">Issue kesesehatan mental</a></li>
                 <li><a href="#">Pencegahan dan penanganan</a></li>
                 <li><a href="#">Product Management</a></li>
                 <li><a href="#">Marketing</a></li>

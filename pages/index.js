@@ -77,7 +77,7 @@ export async function getServerSideProps() {
                             <div className="card-body">
                                 <h5 className="card-title">Gangguan psikotik</h5>
                                 <p className="card-text">
-                                    Penyakit mental ini melibatkan kesadaran yang terganggu. Gejala yang paling sering muncul adalah halusinasi dan delusi. Seseorang bisa seolah-olah melihat objek, suara, atau orang lain yang padahal itu sama sekali tidak ada.
+                                    Gangguan mental ini melibatkan kesadaran yang terganggu. Gejala yang paling sering muncul adalah halusinasi dan delusi. Seseorang bisa seolah-olah melihat objek, suara, atau orang lain yang padahal itu sama sekali tidak ada.
                                 </p>
                             </div>
                         </div>
@@ -85,9 +85,9 @@ export async function getServerSideProps() {
                         <div className="col-lg-3 col-md-6 col-sm-12 d-flex align-items-stretch">
                         <div className="card">
                             <div className="card-body">
-                                <h5 className="card-title">Gangguan psikotik</h5>
+                                <h5 className="card-title">Depresi</h5>
                                 <p className="card-text">
-                                    Penyakit mental ini melibatkan kesadaran yang terganggu. Gejala yang paling sering muncul adalah halusinasi dan delusi. Seseorang bisa seolah-olah melihat objek, suara, atau orang lain yang padahal itu sama sekali tidak ada.
+                                    Gangguan mental ini membuat penderitanya merasa gelisah, resah, putus harapan dan tidak merasa berharga. Kondisi tersebut sering dikaitkan dengan bunuh diri karena perasaan putus asa yang berkelanjutan membuat penderitanya merasa sia-sia untuk tetap hidup.
                                 </p>
                             </div>
                         </div>

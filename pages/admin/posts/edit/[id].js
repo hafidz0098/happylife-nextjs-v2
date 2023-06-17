@@ -3,6 +3,7 @@ import Router from 'next/router';
 import Layout from '../../../../layouts/admin';
 import axios from "axios";
 import Cookies from 'js-cookie';
+import Swal from 'sweetalert2';
 import React, { useRef } from 'react';
 import { Editor } from '@tinymce/tinymce-react';
 import Link from 'next/link';
@@ -73,6 +74,11 @@ function PostEdit(props) {
         //send data to server
         await axios.post(`${process.env.NEXT_PUBLIC_API_BACKEND}/api/posts/${post.id}`, formData)
         .then(() => {
+            Swal.fire(
+                'Good job!',
+                'Berhasil mengubah artikel!',
+                'success'
+              )
 
             //redirect
             Router.push('/admin/dashboard')

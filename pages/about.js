@@ -16,7 +16,7 @@ function About(){
           <div className="row">
             <div className="col-lg-6">
               <div className="member d-flex align-items-start">
-                <div className="pic"><img src="/Group 107.png" className="img-fluid" alt=""/></div>
+                <div className="pic"><img src="/hafidzz.jpg" className="img-fluid" alt=""/></div>
                 <div className="member-info">
                   <h4>Hafidz</h4>
                   <span>Fullstack Developer</span>

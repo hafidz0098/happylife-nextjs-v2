@@ -36,13 +36,33 @@ function Footer() {
             </div>
     
             <div className="col-lg-3 col-6 footer-links">
-              <h4>Our Services</h4>
+              <h4>Artikel Terkait</h4>
               <ul>
-                <li><a href="#">Issue kesesehatan mental</a></li>
-                <li><a href="#">Pencegahan dan penanganan</a></li>
-                <li><a href="#">Product Management</a></li>
-                <li><a href="#">Marketing</a></li>
-                <li><a href="#">Graphic Design</a></li>
+                <li>
+                  <Link href="/artikel/27" legacyBehavior>
+                  <a >Gangguan Kesehatan Mental</a>
+                  </Link>
+                </li>
+                <li>
+                <Link href="/artikel/28" legacyBehavior>
+                  <a >Pengobatan Kesehatan Mental</a>
+                  </Link>
+                </li>
+                <li>
+                <Link href="/artikel/23" legacyBehavior>
+                  <a >Faktor Penentu kesehatan mental</a>
+                  </Link>
+                </li>
+                <li>
+                <Link href="/artikel/30" legacyBehavior>
+                  <a >Menjaga Kesehatan Mental</a>
+                  </Link>
+                </li>
+                <li>
+                <Link href="/artikel/29" legacyBehavior>
+                  <a >Macam-Macam Penyakit Mental</a>
+                  </Link>
+                </li>
               </ul>
             </div>
     

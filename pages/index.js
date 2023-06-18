@@ -32,6 +32,7 @@ export async function getServerSideProps() {
             <Layout>
             <Head>
                 <title>HappyLife</title>
+                <meta name="dicoding:email" content="septian.aji.saputra1928@gmail.com"/>
             </Head>
             <div className={Styles.hero}>
                 <div className={`container ${Styles.container_hero}`}>

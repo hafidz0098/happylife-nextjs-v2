@@ -63,13 +63,13 @@ function About(){
                   <h4>Aulia Azzaskia</h4>
                   <span>Frontend Developer</span>
                   <div className="social">
-                    <Link href="#" target="_blank">
+                    <Link href="https://github.com/ulskki" target="_blank">
                       <i className="ri-github-fill"></i>
                     </Link>
-                    <Link href="#" target="_blank">
+                    <Link href="https://instagram.com/ulskki/" target="_blank">
                       <i className="ri-instagram-fill"></i>
                     </Link>
-                    <Link href="#" target="_blank">
+                    <Link href="https://www.linkedin.com/in/aulia-azzaskia-1053b8236/" target="_blank">
                       <i className="ri-linkedin-box-fill"></i>
                     </Link>
                   </div>

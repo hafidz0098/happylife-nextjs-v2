@@ -79,9 +79,9 @@ function About(){
  
             <div className="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
               <div className="member d-flex align-items-start">
-                <div className="pic"><img src="/Group 107.png" className="img-fluid" alt=""/></div>
+                <div className="pic"><img src="/indyis.jpeg" className="img-fluid" alt=""/></div>
                 <div className="member-info">
-                  <h4>Indy Istiqamah</h4>
+                  <h4>Indy Istiqamah N</h4>
                   <span>Frontend Developer</span>
                   <div className="social">
                     <Link href="https://github.com/inndyis" target="_blank">

@@ -58,7 +58,7 @@ function About(){
  
             <div className="col-lg-6 mt-4">
               <div className="member d-flex align-items-start">
-                <div className="pic"><img src="/Group 107.png" className="img-fluid" alt=""/></div>
+                <div className="pic"><img src="/Aulia.png" className="img-fluid" alt=""/></div>
                 <div className="member-info">
                   <h4>Aulia Azzaskia</h4>
                   <span>Frontend Developer</span>
